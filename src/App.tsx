@@ -3,7 +3,7 @@ function App() {
 
   return (
       <>
-      <main className='grid grid-cols-2 gap-4'>
+      <main className='grid sm:grid-cols-2'>
         <article>
           <img src="/img/profile.png" alt="" height="20px"/>
           <p>Desenvolvedor RPA/FullStack</p>
@@ -12,7 +12,7 @@ function App() {
         <section>
           <div><h2>Habilidades tecnologias</h2></div>
           <ul>
-          <li><img src="/img/html.png" alt="" /></li>
+          <li><img src="/img/react.png" alt="" /></li>
           <li><img src="/img/python.png" alt="" /></li>
           <li><img src="/img/html.png" alt="" /></li>
           <li><img src="/img/css-3.png" alt="" /></li>
