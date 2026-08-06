@@ -3,11 +3,3 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-/* Configurações básicas globais para o corpo da página */
-body {
-  font-family: sans-serif;
-  line-height: 1.5;
-  color: #333;
-  background-color: black;
-}
